@@ -1,0 +1,5 @@
+streamlit
+pandas == 1.1.5
+numpy == 1.19.5
+matplotlib
+tensorflow == 2.6.0
