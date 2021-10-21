@@ -1,5 +1,6 @@
 # Medical-Image-Segmentation: 2018 Data Science Bowl 
-A case study on Nucleus Segmentation across imaging experiments using Deep CNN based models (UNet, UNet++, HRNet)
+A case study on Nucleus Segmentation across imaging experiments using Deep CNN based models (UNet, UNet++, HRNet).
+
 To find the cure for any disease, researchers analyze how the cells of a sample react to various treatments and understand the underlying biological processes. Identifying the cells' nuclei is the starting point for most analyses since it helps identify each individual cell in a sample. Automating this process can save a lot of time, allowing for more efficient drug testing and unlocking the cures faster. 
 
 Please find a detailed blog on this case study here: https://medium.com/@kriz17/medical-image-segmentation-3093bef449a5
